@@ -1,0 +1,15 @@
+* Calliope 
+
+** Usage
+
+An extensible music library and player written in common lisp. As of right now, it is only capable of creating a library out of all =.flac= files.
+
+** Installation
+
+** Author
+
++ Patrick Bunetic (soup-jingleprotonmail.com)
+
+** Copyright
+
+Copyright (c) 2019 Patrick Bunetic (soup-jingleprotonmail.com)
